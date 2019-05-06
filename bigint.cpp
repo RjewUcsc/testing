@@ -4,7 +4,7 @@
 #include <exception>
 #include <stack>
 #include <stdexcept>
-using namespace std;
+using namespace std;    
 
 #include "bigint.h"
 #include "debug.h"
